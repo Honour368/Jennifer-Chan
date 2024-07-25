@@ -1,0 +1,13 @@
+hulk
+text = "<b>You resemble The Hulk!</b><br><br>Fiercely protective of friends and family, you are always there to help out in a time of need.";
+img = "https://i.ytimg.com/vi/MAfIvBgChjQ/maxresdefault.jpg"
+
+
+ironman 
+text = "<b>You resemble Iron Man!</b><br><br>Tony Stark is in an ongoing effort to protect the world from the evil forces that he knows are out there.";
+img = "https://cdnb.artstation.com/p/assets/images/images/029/797/471/large/pupz-dzn-keyboard.jpg?1598659852"
+
+
+captain America
+text = "<b>You resemble Captain America!</b><br><br>Embracing the mantle of team leader, Captain America must find a way to rally The Avengers."; 
+img = "https://cdn3.movieweb.com/i/article/pgcFyKTA1rTFYcnUxDhHlAoGzZuDbP/1200:100/Avengers-Endgame-Captain-America-Time-Travel-Explained.jpg"
